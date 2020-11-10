@@ -2,7 +2,7 @@
 
 The `EnergyCharacterizationAverageData.csv` file contains the GAP benchmark kernels' energy characterization data. The detailed data analysis can be found at:
 
- - Ankur Limaye, Antonino Tumeo, and Tosiron Adegbjija, "*Energy Characterization of Graph Workloads*," in Sustainable Computing: Informatics and Systems Journal.
+ - Ankur Limaye, Antonino Tumeo, and Tosiron Adegbija, "*Energy Characterization of Graph Workloads*," in Sustainable Computing: Informatics and Systems Journal.
  - The paper was presented at the 11th International Green and Sustainable Computing Conference (IGSC '20), 19 -- 22 October 2020.
 
 ## Experimental Setup
